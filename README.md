@@ -21,7 +21,7 @@ ___
 
 :star: Here are some projects that I'm working on:
 - [EmiliaBot Repository](https://github.com/Kotzyy/Emilia-Bot)
-- [ElainaBOT](https://wa.me/994401573003)
+- [EmiliaBOT](https://wa.me/994401573003)
 
 ### About Me ⚠️
 ___
